@@ -2,7 +2,10 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f8f9fa;
+  background-image: url('https://png.pngtree.com/background/20230611/original/pngtree-many-different-kinds-of-food-are-arranged-on-a-table-picture-image_3145533.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center top;
 }
 
 header {
